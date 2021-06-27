@@ -4,7 +4,7 @@
 <div align="center">
 
 
-[<img  src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="35px"/>](www.linkedin.com/in/nitishyadav866)
+[<img  src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="35px"/>](https://www.linkedin.com/in/nitish-kumar-yadav-b86816a6/)
 <img  src="https://avatars3.githubusercontent.com/u/1545643?s=200&v=4" width="35px"/>
 
 </div>
