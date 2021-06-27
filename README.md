@@ -1,4 +1,4 @@
-[Hello, my name is Nitish Data Science Enthusiastic ](https://github.com/nitishya/ReadmeEDIT/blob/main/newdtaa.jpg)
+![Hello, my name is Nitish. Data Science Enthusiastic ](https://github.com/nitishya/ReadmeEDIT/blob/main/newdtaa.jpg)
 
 
 <div align="center">
