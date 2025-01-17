@@ -1,4 +1,5 @@
-![Hello, my name is Nitish. FullStack Java Developer ](https://github.com/nitishya/ReadmeEDIT/blob/main/javafse.webp)
+![Hello, my name is Nitish. FullStack Java Developer ](https://github.com/nitishya/ReadmeEDIT/blob/main/hello.gif)
+
 
 
 <div align="center">
